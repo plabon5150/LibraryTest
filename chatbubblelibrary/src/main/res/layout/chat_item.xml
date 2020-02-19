@@ -3,7 +3,8 @@
     android:id="@+id/parentLL"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="#000"
+    android:background="#00FF00
+"
     android:orientation="vertical"
     android:padding="16dp">
 
@@ -12,13 +13,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Name"
-        android:textColor="#FFF" />
+        android:textColor="#000" />
 
     <TextView
         android:id="@+id/messageTv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Message"
-        android:textColor="#FFF" />
+        android:textColor="000" />
 
 </LinearLayout>
